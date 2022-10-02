@@ -1,4 +1,3 @@
-GAME in SUDOKU 
 # Game in Sudoku
 
 ## **Tools**
